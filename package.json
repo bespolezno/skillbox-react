@@ -33,6 +33,7 @@
     "webpack-node-externals": "^2.5.2"
   },
   "dependencies": {
+    "cross-env": "^7.0.3",
     "express": "^4.17.1",
     "nodemon": "^2.0.7",
     "react": "^17.0.1",
